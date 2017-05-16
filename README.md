@@ -20,4 +20,5 @@ La parte di Caputi Valeria è presente in ValeVale98 e contiene:
 5 Web Service Modifica;
 6 Web Service Visualizza;
 7 Web Service Login;
-8 Web Service Registrati
+8 Web Service Registrati;
+9 Database relativi (Login/Registrati e Modifica);
